@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello, hej and buenos dias - 
+
+Danish computer science student here. After completing my Ms.S in communications.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaycph&layout=compact)](https://github.com/jaycph/github-readme-stats)
 
