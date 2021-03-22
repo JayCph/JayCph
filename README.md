@@ -1,4 +1,4 @@
-### Hello, hej and buenos dias - 
+### Hello, buenos dias, ٱلسَّلَامُ عَلَيْكُمْ, bonjour, здравствуйте, 最近好吗 and guten tag 
 
 Danish computer science student here. After completing my Ms.S in communications.
 
