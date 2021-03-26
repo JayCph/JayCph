@@ -1,6 +1,6 @@
 ### Hello, buenos dias, ٱلسَّلَامُ عَلَيْكُمْ, bonjour, здравствуйте, 最近好吗 and guten tag 
 
-Danish computer science student here. After completing my Ms.S in communications.
+Danish computer science student here. After completing my Ms.S in communications and working in hospitality for a decade, Corona struck and I decided it perhaps was time to seek out new adventures. Following a lifelong dream of working in and with IT, I signed up for an AP degree in Computer Science in the summer of 2020, and been having a blast since.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaycph&layout=compact)](https://github.com/jaycph/github-readme-stats)
 
