@@ -1,4 +1,4 @@
-### Hello, buenos dias, ٱلسَّلَامُ عَلَيْكُمْ, bonjour, здравствуйте, 最近好吗 and guten tag 
+### Hi there and welcome!
 
 Danish software developer here. After completing my Ms.S in communications and working in hospitality for a decade, Corona struck and I decided it perhaps was time to seek out new adventures. Following a lifelong dream of working in and with IT, I signed up for an AP degree in Computer Science in the summer of 2020, and been having a blast since, and just landed my first job at https://www.nnit.com/da/ after commpleting my degree in february.
 
