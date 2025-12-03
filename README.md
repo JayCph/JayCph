@@ -1,27 +1,18 @@
-### Hi there and welcome!
+### Hi there and welcome! 👋
 
-Danish software developer here. After completing my Ms.S in communications and working in hospitality for a decade, Corona struck and I decided it perhaps was time to seek out new adventures. Following a lifelong dream of working in and with IT, I signed up for an AP degree in Computer Science in the summer of 2020, and been having a blast since, and just landed my first job at https://www.nnit.com/da/ after commpleting my degree in february.
+Danish software developer here. After completing my M.Sc. in Communications and working in hospitality for a decade, COVID-19 struck, and I decided it was time to seek out new adventures. Following a lifelong dream of working in and with tech, I signed up for an AP degree in Computer Science in the summer of 2020. I've been having a blast since and am currently working at a major insurance company in Copenhagen.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaycph&layout=compact)](https://github.com/jaycph/github-readme-stats)
+---
+
+<div align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaycph&layout=compact&theme=radical)](https://github.com/jaycph)
+
+<br/>
 
 <a href="https://www.linkedin.com/in/janus-br/">
-<img src="174857.png" Width="24" height="24" />
-  View my Profile
-  </a>
-  
-  
-  
-<!--
-**JayCph/JayCph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="24" height="24" />
+  &nbsp;View my LinkedIn Profile
+</a>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
