@@ -6,7 +6,7 @@ Danish software developer here. After completing my M.Sc. in Communications and 
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaycph&layout=compact&theme=radical)](https://github.com/jaycph)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jaycph)](https://github.com/jaycph/github-readme-stats)
 
 <br/>
 
